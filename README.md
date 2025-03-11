@@ -1,1 +1,1 @@
-# pong-python
+# Pong in python
